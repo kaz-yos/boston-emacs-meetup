@@ -1,0 +1,4 @@
+* Boston Emacs Meetup
+My presentation files for Boston Emacs Meetup.
+
+- 2018-07-17 Dired
